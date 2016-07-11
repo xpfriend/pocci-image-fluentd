@@ -1,3 +1,3 @@
-FROM fluent/fluentd:v0.12.26-2
+FROM fluent/fluentd:v0.14.1
 MAINTAINER ototadana@gmail.com
 
