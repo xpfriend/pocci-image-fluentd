@@ -1,3 +1,2 @@
-FROM fluent/fluentd:v0.14.6
+FROM fluent/fluentd:latest
 MAINTAINER ototadana@gmail.com
-
